@@ -1,14 +1,15 @@
 # ThesisLaTeX
+<p>
 Thesis-LaTeX template for Sun Yan-sen University
-
-
+<br>
+<br>
 USAGE:
-
-首先，按如下序列运行后可得到main.pdf文件:
-xelatex main.tex
-bibtex main.aux
-xelatex main.tex
-xelatex main.tex
+<br>
+首先，按如下序列运行后可得到main.pdf文件:<br>
+xelatex main.tex<br>
+bibtex main.aux<br>
+xelatex main.tex<br>
+xelatex main.tex<br>
 
 其次，请在sysuthesis.bib里面添加论文引用。
 
